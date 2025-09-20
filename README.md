@@ -47,6 +47,7 @@
 |1753. 최단경로|[링크](./%EB%B0%B1%EC%A4%80/Gold/1753.%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/README.md)|
 |20040. 사이클 게임|[링크](./%EB%B0%B1%EC%A4%80/Gold/20040.%E2%80%85%EC%82%AC%EC%9D%B4%ED%81%B4%E2%80%85%EA%B2%8C%EC%9E%84/README.md)|
 |2636. 치즈|[링크](./%EB%B0%B1%EC%A4%80/Gold/2636.%E2%80%85%EC%B9%98%EC%A6%88/README.md)|
+|2638. 치즈|[링크](./%EB%B0%B1%EC%A4%80/Gold/2638.%E2%80%85%EC%B9%98%EC%A6%88/README.md)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
