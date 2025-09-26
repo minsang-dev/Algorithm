@@ -33,6 +33,7 @@
 |1546. 평균|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1546.%E2%80%85%ED%8F%89%EA%B7%A0/%ED%8F%89%EA%B7%A0.java)|
 |1547. 공|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1547.%E2%80%85%EA%B3%B5/%EA%B3%B5.java)|
 |2231. 분해합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2231.%E2%80%85%EB%B6%84%ED%95%B4%ED%95%A9/README.md)|
+|2557. Hello World|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/Hello%E2%80%85World.java)|
 |2798. 블랙잭|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2798.%E2%80%85%EB%B8%94%EB%9E%99%EC%9E%AD/%EB%B8%94%EB%9E%99%EC%9E%AD.java)|
 ### 🚀 Gold
 | 문제번호 | 링크 |
